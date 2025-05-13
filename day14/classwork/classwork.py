@@ -1,0 +1,6 @@
+number = input("type your age:")
+print(type(number))
+number1 = int(number)
+print(type(number))
+number2 =float(number1)
+print(type(number2))
