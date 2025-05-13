@@ -1,0 +1,6 @@
+number_str = input("შეიყვანეთ რიცხვი")
+print(f"საწყისი მონაცემთა ტიპი:{type(number_str)}")
+number_int = int(number_str)
+print(f"Integer მონაცემთა ტიპი:{type(number_int)}")
+number_float = float(number_int)
+print(f"float მონაცემთა ტიპი:{type(number_float)}")
